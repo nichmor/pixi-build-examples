@@ -15,7 +15,7 @@ version = "0.1.0"
 [build-system]
 build-backend = { name = "pixi-build-cmake", version = "*" }
 channels = [
-  "https://prefix.dev/pixi-build-backends",
+  "https://prefix.dev/graf",
   "https://prefix.dev/conda-forge",
 ]
 
