@@ -13,7 +13,8 @@ name = "boost-check"
 version = "0.1.0"
 
 [build-system]
-build-backend = { name = "pixi-build-cmake", version = "==0.1.0dev2" }
+build-backend = { name = "pixi-build-cmake", version = "==0.1.1" }
+
 channels = [
   "https://prefix.dev/graf",
   "https://prefix.dev/conda-forge",
