@@ -13,7 +13,7 @@ name = "boost-check"
 version = "0.1.0"
 
 [build-system]
-build-backend = { name = "pixi-build-cmake", version = "==0.1.1" }
+build-backend = { name = "pixi-build-cmake", version = "==0.1.2" }
 
 channels = [
   "https://prefix.dev/graf",
